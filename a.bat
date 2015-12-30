@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File Get-Wlan-Keys.ps1
